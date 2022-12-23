@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "repo_reader_sancherepan"
-version = "0.1.1"
+version = "0.2.0"
 authors = [
   { name="SAnCherepan", email="sivkinpunk@gmail.com" },
 ]
@@ -21,3 +21,6 @@ classifiers = [
 
 [project.urls]
 "Homepage" = "https://github.com/sancherepan/test-code"
+
+[project.scripts]
+read-repos = "repo_reader_sancherepan.print_repos_info:main"

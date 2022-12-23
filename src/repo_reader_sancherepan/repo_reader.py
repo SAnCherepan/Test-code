@@ -15,8 +15,7 @@ class RepoReader:
 
     def read_repos(self, org_name: str):
         url = self.github_base_url + self.github_org_repos_url.format(org_name)
-        print(f"url: {url}")
-
+        
         response = self.session.get(url)
         response.raise_for_status()
 

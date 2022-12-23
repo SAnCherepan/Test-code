@@ -1,12 +1,12 @@
 # Repo reader
 
-This is a simple example package that can be used to get basic info on GitHub repository groups (a.k.a. orgs).
+This is a simple example package that can be used to get basic info on GitHub repository groups (a.k.a. organisations).
 
 # Installation
 
 Install the python package:
 ```
-python -m pip install --index-url https://test.pypi.org/simple/ --no-deps repo_reader_sancherepan
+python -m pip install --index-url https://test.pypi.org/simple/ repo_reader_sancherepan
 ```
 
 
@@ -20,4 +20,7 @@ reader = RepoReader("<your_github_auth_token>")
 repos = reader.read_repos("<github_repo_group_name>")
 ```
 
-See also an [example using CLI](cli/print-repos-info.py)
+In command line:
+```commandline
+read-repos your_github_auth_token github_repo_group_name
+```
