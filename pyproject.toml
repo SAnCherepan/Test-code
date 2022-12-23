@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "repo_reader_sancherepan"
+version = "0.2.0"
+authors = [
+  { name="SAnCherepan", email="sivkinpunk@gmail.com" },
+]
+description = "A small example package for reading basic GitHub repo data"
+license = {file = "LICENSE.md"}
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+    "Development Status :: 2 - Pre-Alpha",
+    "Programming Language :: Python :: 3.11",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/sancherepan/test-code"
+
+[project.scripts]
+read-repos = "repo_reader_sancherepan.print_repos_info:main"
