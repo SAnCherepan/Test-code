@@ -1,0 +1,122 @@
+[
+  {
+    "name": "1.24.1-patch",
+    "commit": {
+      "sha": "3fbb9fe51e423b27a485d580305f1dcfcb2adb4e",
+      "url": "https://api.github.com/repos/docker/compose/commits/3fbb9fe51e423b27a485d580305f1dcfcb2adb4e"
+    },
+    "protected": false
+  },
+  {
+    "name": "1.25.x",
+    "commit": {
+      "sha": "8a1c60f64e77b3949cd4b08bc96d9020b45dc9a3",
+      "url": "https://api.github.com/repos/docker/compose/commits/8a1c60f64e77b3949cd4b08bc96d9020b45dc9a3"
+    },
+    "protected": false
+  },
+  {
+    "name": "1.26.x",
+    "commit": {
+      "sha": "eefe0d319f966288a8c0438aa51822af8668ee06",
+      "url": "https://api.github.com/repos/docker/compose/commits/eefe0d319f966288a8c0438aa51822af8668ee06"
+    },
+    "protected": false
+  },
+  {
+    "name": "1.27.x",
+    "commit": {
+      "sha": "405241920ee23c47d423a7ec5a0514aad7f6a421",
+      "url": "https://api.github.com/repos/docker/compose/commits/405241920ee23c47d423a7ec5a0514aad7f6a421"
+    },
+    "protected": false
+  },
+  {
+    "name": "1.28.x",
+    "commit": {
+      "sha": "5db8d86f127848367e4d721e992c188923c89d42",
+      "url": "https://api.github.com/repos/docker/compose/commits/5db8d86f127848367e4d721e992c188923c89d42"
+    },
+    "protected": false
+  },
+  {
+    "name": "add-e2e-ddev",
+    "commit": {
+      "sha": "34f420040cd36d5658e8245fa959cbdcc397641f",
+      "url": "https://api.github.com/repos/docker/compose/commits/34f420040cd36d5658e8245fa959cbdcc397641f"
+    },
+    "protected": false
+  },
+  {
+    "name": "config_no_normalize",
+    "commit": {
+      "sha": "6d52363cd47aa05d78543a15a9a5886941a7a511",
+      "url": "https://api.github.com/repos/docker/compose/commits/6d52363cd47aa05d78543a15a9a5886941a7a511"
+    },
+    "protected": false
+  },
+  {
+    "name": "dispatch-release-event",
+    "commit": {
+      "sha": "6b2ca93981ca9936cdf46b3fe3d2baa819cd5aac",
+      "url": "https://api.github.com/repos/docker/compose/commits/6b2ca93981ca9936cdf46b3fe3d2baa819cd5aac"
+    },
+    "protected": false
+  },
+  {
+    "name": "fix-bindmounts",
+    "commit": {
+      "sha": "0ba46049db959161f008fd05f2aacde5ffab0294",
+      "url": "https://api.github.com/repos/docker/compose/commits/0ba46049db959161f008fd05f2aacde5ffab0294"
+    },
+    "protected": false
+  },
+  {
+    "name": "master",
+    "commit": {
+      "sha": "30fcb72cf3b136598883752edfa6ea4f3b8643d4",
+      "url": "https://api.github.com/repos/docker/compose/commits/30fcb72cf3b136598883752edfa6ea4f3b8643d4"
+    },
+    "protected": true
+  },
+  {
+    "name": "py2",
+    "commit": {
+      "sha": "9ad10575d11be163dae96a7e0f3284eed66d5427",
+      "url": "https://api.github.com/repos/docker/compose/commits/9ad10575d11be163dae96a7e0f3284eed66d5427"
+    },
+    "protected": false
+  },
+  {
+    "name": "release",
+    "commit": {
+      "sha": "e9f9a1e9e1edabe25f3c6494aa7f3a5a5f7db7d2",
+      "url": "https://api.github.com/repos/docker/compose/commits/e9f9a1e9e1edabe25f3c6494aa7f3a5a5f7db7d2"
+    },
+    "protected": true
+  },
+  {
+    "name": "run_quietpull",
+    "commit": {
+      "sha": "cbd3d37adf7f5046fe86877ea45a6156fc98d17d",
+      "url": "https://api.github.com/repos/docker/compose/commits/cbd3d37adf7f5046fe86877ea45a6156fc98d17d"
+    },
+    "protected": false
+  },
+  {
+    "name": "v1.24.0",
+    "commit": {
+      "sha": "f85950ebecfa21b3760756be93867c17a8770d43",
+      "url": "https://api.github.com/repos/docker/compose/commits/f85950ebecfa21b3760756be93867c17a8770d43"
+    },
+    "protected": false
+  },
+  {
+    "name": "v2",
+    "commit": {
+      "sha": "0307c16dafe0598983517bf4e5300fff2f359d85",
+      "url": "https://api.github.com/repos/docker/compose/commits/0307c16dafe0598983517bf4e5300fff2f359d85"
+    },
+    "protected": true
+  }
+]
