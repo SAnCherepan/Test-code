@@ -4,11 +4,16 @@ This is a simple example package that can be used to get basic info on GitHub re
 
 # Installation
 
-Install the python package:
-```
+Python package:
+```commandline
 python -m pip install --index-url https://test.pypi.org/simple/ repo_reader_sancherepan
 ```
 
+Docker image:
+```commandline
+docker pull sancherepan/repo-reader
+docker run -it --rm sancherepan/repo-reader read-repos --help
+```
 
 # Usage
 
@@ -23,4 +28,9 @@ repos = reader.read_repos("<github_repo_group_name>")
 In command line:
 ```commandline
 read-repos your_github_auth_token github_repo_group_name
+```
+
+In docker:
+```commandline
+docker run -it --rm sancherepan/repo-reader read-repos your_github_auth_token github_repo_group_name
 ```
