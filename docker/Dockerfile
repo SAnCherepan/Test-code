@@ -4,6 +4,4 @@ COPY . /src
 
 RUN pip install /src && rm -rf /src
 
-ENTRYPOINT ["bash", "-c", "read-repos"]
-
-CMD ["-h"]
+CMD ["read-repos", "-h"]
