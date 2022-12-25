@@ -1,16 +1,17 @@
-import unittest
-
-# ToDo: write tests with a mock server
-
-import json
-from repo_reader.repo_reader import RepoReader
-from repo_reader.repository import Repository
+import pytest
+from src.repo_reader_sancherepan.repo_reader import RepoReader
 
 
-class MyTestCase(unittest.TestCase):
-    def test_something(self):
-        self.assertEqual(True, False)  # add assertion here
+def test_repo_reader():
+    reader = RepoReader("github_token_1337")
+    repos = reader.read_repos("docker")
 
+    assert (len(repos) == 3)
 
-if __name__ == '__main__':
-    unittest.main()
+    assert (repos[0].name == "docker-py")
+
+    assert (repos[1].size == 23513)
+    assert (repos[1].branches is not None)
+    assert (len(repos[1].branches) == 15)
+
+    assert (repos[2].open_issues_count == 435)
