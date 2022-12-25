@@ -1,6 +1,6 @@
 # Repo reader
 
-This is a simple example package that can be used to get basic info on GitHub repository groups (a.k.a. organisations).
+This is a simple python package that can be used to get basic list of repositories in a GitHub repository group (a.k.a. organisation).
 
 # Installation
 
