@@ -24,10 +24,3 @@ def request_register_get_urls(requests_mock):
             )
 
     return requests_mock
-
-# @pytest.fixture(autouse=True)
-# def requests_mock_all(requests_mock):
-#     """
-#     Mock all HTTP requests outside - only use mocks
-#     Works for 'requests' library only
-#     """
