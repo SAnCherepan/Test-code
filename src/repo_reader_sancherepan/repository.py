@@ -14,17 +14,20 @@ class Repository(object):
         if "name" in data:
             self.name = data["name"]
         else:
-            raise ValueError("bad repository data: expected name")
+            raise ValueError('bad repository data: expected attribute "name"')
 
         if "size" in data:
             self.size = data["size"]
         else:
-            raise ValueError("bad repository data: expected size")
+            raise ValueError('bad repository data: expected attribute "size"')
 
-        if "open_issues_count" in data:
-            self.open_issues_count = data["open_issues_count"]
+        if "has_issues" in data and data["has_issues"] is True:
+            if "open_issues_count" in data:
+                self.open_issues_count = data["open_issues_count"]
+            else:
+                raise ValueError('bad repository data: expected attribute "open_issues_count"')
         else:
-            raise ValueError("bad repository data: expected open_issues_count")
+            self.open_issues_count = "Issues are not enabled in this repo"
 
         if "url" in data:
             self.count_branches(data["url"])
