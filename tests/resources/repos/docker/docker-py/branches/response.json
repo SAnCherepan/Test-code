@@ -1,0 +1,186 @@
+[
+  {
+    "name": "3.7.0-release",
+    "commit": {
+      "sha": "e6783d8cf33d0bd2654da01904b986a4af134daa",
+      "url": "https://api.github.com/repos/docker/docker-py/commits/e6783d8cf33d0bd2654da01904b986a4af134daa"
+    },
+    "protected": false
+  },
+  {
+    "name": "3.7.3-release",
+    "commit": {
+      "sha": "abc7308008e76b3c4752c774082698419b0c3244",
+      "url": "https://api.github.com/repos/docker/docker-py/commits/abc7308008e76b3c4752c774082698419b0c3244"
+    },
+    "protected": false
+  },
+  {
+    "name": "4.0.2-release",
+    "commit": {
+      "sha": "805f5f4b38cedce36b2037d66bf1a6f99982c017",
+      "url": "https://api.github.com/repos/docker/docker-py/commits/805f5f4b38cedce36b2037d66bf1a6f99982c017"
+    },
+    "protected": false
+  },
+  {
+    "name": "4.1.0-release",
+    "commit": {
+      "sha": "2bb08b3985fbde794a75fbf321872c9c4d84abf9",
+      "url": "https://api.github.com/repos/docker/docker-py/commits/2bb08b3985fbde794a75fbf321872c9c4d84abf9"
+    },
+    "protected": false
+  },
+  {
+    "name": "4.3.0-release",
+    "commit": {
+      "sha": "7db995b1ce94d8ec012793037acb789c17f95779",
+      "url": "https://api.github.com/repos/docker/docker-py/commits/7db995b1ce94d8ec012793037acb789c17f95779"
+    },
+    "protected": false
+  },
+  {
+    "name": "4.3.1-release",
+    "commit": {
+      "sha": "43e56fd3fe611e0d0d914466f61c72baacf004f0",
+      "url": "https://api.github.com/repos/docker/docker-py/commits/43e56fd3fe611e0d0d914466f61c72baacf004f0"
+    },
+    "protected": false
+  },
+  {
+    "name": "4.4.0-release",
+    "commit": {
+      "sha": "cb2aedfb1498590123c066c4130daac6a6206b9b",
+      "url": "https://api.github.com/repos/docker/docker-py/commits/cb2aedfb1498590123c066c4130daac6a6206b9b"
+    },
+    "protected": false
+  },
+  {
+    "name": "4.4.2-release",
+    "commit": {
+      "sha": "98eadb9f98ef80b4fd6d370b8252d1b5d4f41c50",
+      "url": "https://api.github.com/repos/docker/docker-py/commits/98eadb9f98ef80b4fd6d370b8252d1b5d4f41c50"
+    },
+    "protected": false
+  },
+  {
+    "name": "4.4.3-release",
+    "commit": {
+      "sha": "9acb9421ac08250175e0be5467afa46b4e6558c9",
+      "url": "https://api.github.com/repos/docker/docker-py/commits/9acb9421ac08250175e0be5467afa46b4e6558c9"
+    },
+    "protected": false
+  },
+  {
+    "name": "4.4.4-release",
+    "commit": {
+      "sha": "0265818d1087132e030fcb049925ca2fd2aab62a",
+      "url": "https://api.github.com/repos/docker/docker-py/commits/0265818d1087132e030fcb049925ca2fd2aab62a"
+    },
+    "protected": false
+  },
+  {
+    "name": "5.0.0-release",
+    "commit": {
+      "sha": "80878bc61064616a26a3c9423fab4049ad50260d",
+      "url": "https://api.github.com/repos/docker/docker-py/commits/80878bc61064616a26a3c9423fab4049ad50260d"
+    },
+    "protected": false
+  },
+  {
+    "name": "5.0.1-release",
+    "commit": {
+      "sha": "0a016ff523d4810f5d6ad25535321effb95a95e2",
+      "url": "https://api.github.com/repos/docker/docker-py/commits/0a016ff523d4810f5d6ad25535321effb95a95e2"
+    },
+    "protected": false
+  },
+  {
+    "name": "5.0.2-release",
+    "commit": {
+      "sha": "23cc7b6d8d29d97b4eaa8e9087c940fda786fd8b",
+      "url": "https://api.github.com/repos/docker/docker-py/commits/23cc7b6d8d29d97b4eaa8e9087c940fda786fd8b"
+    },
+    "protected": false
+  },
+  {
+    "name": "add-gha",
+    "commit": {
+      "sha": "d33719bfddb9c5675914ea222b1c8e4634255254",
+      "url": "https://api.github.com/repos/docker/docker-py/commits/d33719bfddb9c5675914ea222b1c8e4634255254"
+    },
+    "protected": false
+  },
+  {
+    "name": "buildkit",
+    "commit": {
+      "sha": "941b3054c3876a1f51f3b9d6f23d2dffa343a3de",
+      "url": "https://api.github.com/repos/docker/docker-py/commits/941b3054c3876a1f51f3b9d6f23d2dffa343a3de"
+    },
+    "protected": false
+  },
+  {
+    "name": "main",
+    "commit": {
+      "sha": "82cf559b5a641f53e9035b44b91f829f3b4cca80",
+      "url": "https://api.github.com/repos/docker/docker-py/commits/82cf559b5a641f53e9035b44b91f829f3b4cca80"
+    },
+    "protected": true
+  },
+  {
+    "name": "master",
+    "commit": {
+      "sha": "2494d63f36eba0e1811f05e7b2136f8b30f7cdb7",
+      "url": "https://api.github.com/repos/docker/docker-py/commits/2494d63f36eba0e1811f05e7b2136f8b30f7cdb7"
+    },
+    "protected": false
+  },
+  {
+    "name": "prune_build_cache",
+    "commit": {
+      "sha": "37e930f4d059b30261d24c5ddd315cef25e2fb87",
+      "url": "https://api.github.com/repos/docker/docker-py/commits/37e930f4d059b30261d24c5ddd315cef25e2fb87"
+    },
+    "protected": false
+  },
+  {
+    "name": "release",
+    "commit": {
+      "sha": "30089ec681d9016154c722717e974bec9116ef47",
+      "url": "https://api.github.com/repos/docker/docker-py/commits/30089ec681d9016154c722717e974bec9116ef47"
+    },
+    "protected": false
+  },
+  {
+    "name": "replace_paramiko",
+    "commit": {
+      "sha": "d96666881d2ece3be7a6ea1c638f76fee4ee1af0",
+      "url": "https://api.github.com/repos/docker/docker-py/commits/d96666881d2ece3be7a6ea1c638f76fee4ee1af0"
+    },
+    "protected": false
+  },
+  {
+    "name": "resync-release",
+    "commit": {
+      "sha": "0200e051c0f8a83dcd203d0108f67992dabedb25",
+      "url": "https://api.github.com/repos/docker/docker-py/commits/0200e051c0f8a83dcd203d0108f67992dabedb25"
+    },
+    "protected": false
+  },
+  {
+    "name": "set-minimal-python-to-3_6",
+    "commit": {
+      "sha": "c8fba210a222d4f7fde90da8f48db1e7faa637ec",
+      "url": "https://api.github.com/repos/docker/docker-py/commits/c8fba210a222d4f7fde90da8f48db1e7faa637ec"
+    },
+    "protected": false
+  },
+  {
+    "name": "sync-release",
+    "commit": {
+      "sha": "4db37a12676e106b5f2980e959c9baa623ff6231",
+      "url": "https://api.github.com/repos/docker/docker-py/commits/4db37a12676e106b5f2980e959c9baa623ff6231"
+    },
+    "protected": false
+  }
+]
